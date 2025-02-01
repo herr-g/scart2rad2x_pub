@@ -1,0 +1,4 @@
+Id,Designator,Footprint,Quantity,Designation,Supplier and ref
+1,D1,SOT-23,1,BAT54C,
+2,SCART,SCART,1,SCART-F,https://de.aliexpress.com/item/1005004046566803.html
+3,MicroUSB,USB_Micro-B_Amphenol_10118194_Horizontal,1,USB_B_Micro,https://www.digikey.de/en/products/detail/amphenol-cs-commercial-products/GMCB05321124CEU/16819091
